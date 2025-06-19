@@ -1,72 +1,75 @@
-Road Accident Data Analysis(Interactive Dashboard creation using Excel)
-An interactive Dashboard created by Gaurab Kundu
+# Road Accident Data Analysis - Interactive Dashboard (Excel)
+**Created by Gaurab Kundu**
 
-Project Description
-A major issue that has an impact on communities all across the world is road safety. In this project I have created a Road Accident Analytics Dashboard, a powerful tool designed to analyse and visualize road accident data for the years 2021 and 2022. This Excel-based dashboard empowers stakeholders with valuable insights to make data-driven decisions and pave the way towards safer roads.
+## Project Overview
+Road safety is a global concern impacting countless communities. This project presents a comprehensive and interactive Excel Dashboard analyzing road accident data for 2021 and 2022. The dashboard equips stakeholders with actionable insights to drive data-informed decisions and foster safer roads.
 
-Tools & Technology Used
+## Tools & Technologies
+- **Excel** (Pivot Tables, Pivot Charts, Slicers, Timelines, Hyperlinks)
+- **Data Cleaning** (Duplicates removal, NULL handling, data consistency)
+- **Data Transformation** (New attributes: Year, Month)
 
-Skills showcased in this Project
-Data Cleaning, Data Transformation, Data Analysis
-Filtering, Sorting and Conditional function.
-Pivot Tables and Pivot Chart
-Data Visulisation and Dashboard creation
-Requirements and KPIs
-Clients want to create a road accident dashboard for the years 2021 and 2022 so that they can have insight on following aspects-
+## Skills Demonstrated
+- Data Cleaning & Transformation
+- Data Analysis using Pivot Tables/Charts
+- Filtering, Sorting, Conditional Functions
+- Dashboard Design & Visualization
 
-Primary KPI - Total Casualties and Total Accident values for Current Year and YoY growth
-Primary KPI's-Total Casualties by Accident Severity for Current Year and YoY growth
-Secondary KPIs - Total Casualties concerning vehicle type for the Current Year
-Monthly trend showing a comparison of casualties for the Current Year and the Previous Year
-Casualties by Road Type for the Current Year
-Current Year Casualties by Area/ Location & by Day/Night
-Total Casualties and Total Accidents by Location
-Data used
-The dataset can be found here
+## Dashboard Requirements & KPIs
+- **Primary KPIs:**
+  - Total Casualties & Total Accidents (Current Year + YoY Growth)
+  - Casualties by Accident Severity (Current Year + YoY Growth)
+- **Secondary KPIs:**
+  - Casualties by Vehicle Type (Current Year)
+  - Monthly Casualty Trends (Year-on-Year)
+  - Casualties by Road Type, Location, Day/Night (Current Year)
+  - Total Casualties & Accidents by Location
 
-Data Cleaning and Transformation
-This stage began with getting to know the dataset and checking for any data quality issues.
+## Data Source & Preparation
+- **Dataset:** [Download Link](#) <!-- Replace with actual link -->
+- **Cleaning Steps:**
+  - Checked for NULLs, blanks, errors
+  - Removed duplicates & irrelevant columns
+  - Ensured consistent data types/formats
+  - Added `Year` and `Month` columns for analysis
 
-Checking NULL values, blanks and Errors
-Removing duplicates, and irrelevant columns.
-Made sure data is consistent and clean with respect to data type, data format and values used.
-Creating 2 new attributes 'Year' and 'Month' were added for logical and easy interpretation of dataset.
-Data Analysis
-Created a "Data Analysis" sheet to summarize all the pivot table Data for a new user or developer or client to ease their work and gathered information. On this sheet nine pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between number of casualties and many factors such as- casualty type, vehicle type, road type, location etc. Monthly trends were also analysed for the years 2021 and 2022.
+## Analysis Approach
+- Created a **Data Analysis** sheet with 9 Pivot Tables to summarize:
+  - Casualty trends by type, vehicle, road, location, month, etc.
+- Analyzed monthly trends for 2021 and 2022
 
-Below is a snippet of the Data Analysis Sheet:
+## Dashboard Features
+- Custom Pivot Charts for visual insights
+- Interactive Slicers and Timelines for user-friendly filtering
+- Hyperlinks for quick navigation
 
+## Key Insights
+- **Total Casualties:** 417,883 over two years
+- **Peak Months:** October & November (highest casualties), January & February (lowest)
+- **Vehicle Type:** Cars involved in ~80% of casualties
+- **Accident Severity:** 84.1% slight, 1.7% fatal
+- **Road Type:** Single Carriageway (most), Slip Road (least)
+- **Road Surface:** 67% casualties on dry surfaces
+- **Location:** 61% in urban areas
+- **Light Conditions:** 73% in daylight
 
-Data Visualization
-Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table. For user friendly and interactive experience slicers and timelines were incorporated. Hyperlinks and connections were also added to necessary icons for seamless navigation.
+## Recommendations
+- **Target High-Risk Months:** Focus road safety interventions in October and November
+- **Car Driver Awareness:** Implement targeted campaigns and stricter monitoring
+- **Single Carriageway Upgrades:** Improve/expand to double lanes where possible
+- **Road Surface Maintenance:** Prioritize areas with poor surface conditions
+- **Urban Safety Measures:** Enhance urban road safety, especially in daylight
 
-The Excel File can be Downloaded from here
+## Conclusion
+The Road Accident Analytics Dashboard empowers decision-makers with critical insights, supporting data-driven policies and interventions for safer roads.
 
-Below is a snippet of the final dashboard in Excel:
+## Sample Visuals
 
+*Insert dashboard and analysis sheet screenshots here*
 
-Key Insights
-📈 Total Casualties Analysis: The dashboard reveals that a staggering 417,883 casualties occurred after accidents during the two-year period.
+## Download
+- [Excel Dashboard File](#) <!-- Replace with actual link -->
 
-📅 Peak Months: Overall the number of casulaties were slightly higher in 2021 than 2022. Maximum Casualties happened in the month of October and November in both the Years and minimum casualties take place in the month of January and February.
+---
 
-🚗 Casualties by Vehicle Type: Car accidents accounted for the highest number of casualties, contributing to 79.8% of the total. On the other hand, casualties were minimal in accidents involving other vehicle types.
-
-🩸 Casualties by accident severity Slight severity form the bulk of casualties 84.1% whereas there are only 1.7% Fatal severity casualties.
-
-🛣️ Road Type Analysis: Maximum Casualties by Single Carriageway road type (310.1K) and Minimum by Slip road(5.1K).
-
-🌧️ Casualties Distribution by Road Surface: Highest Distribution of total casualties on Dry road surfaces (67%).
-
-🏙️ Casualties Relation by Area/Location Urban areas form the majority of casualties after an accident (61%).
-
-☀️ Casualties Distribution by light condtion: 73% of casulties take place in daylight condtion.
-
-Recommendations based on the Analysis
-By comparing casualty trends between the current and previous years on a monthly basis, the dashboard identifies critical periods of October and November. The road safety measure by the traffic police and other stakeholders must be active and focused during these high-risk periods.
-Car drivers form bulk of the casualties so they must be targeted for awareness camps and strict monitoring, periodic check-ups on safe driving.
-Extra safety measures should be placed Single Carriageway roads and they must be upgraded to double lane wherever possible.
-Understanding casualty distribution based on different road surface conditions helps pinpoint areas where road maintenance and surface improvements are essential.
-Urban areas should be targeted for interventions to improve road safety in specific and during daytime.
-Conclusion
-This Road Accident Analytics Dashboard opens the door to data-driven decision-making, enabling stakeholders to implement evidence-based interventions that enhance road safety. It serves as a valuable tool for policymakers, traffic authorities, and safety advocates alike.
+*For questions or collaboration, reach out to Gaurab Kundu.*
