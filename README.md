@@ -1,5 +1,5 @@
 # Road Accident Data Analysis - Interactive Dashboard (Excel)
-**Created by Gaurab Kundu**
+**Created by Himanshu Shukla**
 
 ## Project Overview
 Road safety is a global concern impacting countless communities. This project presents a comprehensive and interactive Excel Dashboard analyzing road accident data for 2021 and 2022. The dashboard equips stakeholders with actionable insights to drive data-informed decisions and foster safer roads.
@@ -25,8 +25,7 @@ Road safety is a global concern impacting countless communities. This project pr
   - Casualties by Road Type, Location, Day/Night (Current Year)
   - Total Casualties & Accidents by Location
 
-## Data Source & Preparation
-- **Dataset:** [Download Link](#) <!-- Replace with actual link -->
+##  Preparation
 - **Cleaning Steps:**
   - Checked for NULLs, blanks, errors
   - Removed duplicates & irrelevant columns
@@ -64,12 +63,12 @@ Road safety is a global concern impacting countless communities. This project pr
 The Road Accident Analytics Dashboard empowers decision-makers with critical insights, supporting data-driven policies and interventions for safer roads.
 
 ## Sample Visuals
-
-*Insert dashboard and analysis sheet screenshots here*
+![274950292-01bdbd8e-a1b8-4aff-b84b-48b17a8eff6a](https://github.com/user-attachments/assets/cc271702-7482-4065-960b-e1f3687133ca)
+![Screenshot 2025-01-25 022207](https://github.com/user-attachments/assets/8027b65e-407d-4a62-acaf-e3df02ceec8f)
 
 ## Download
-- [Excel Dashboard File](#) <!-- Replace with actual link -->
+- [Excel Dashboard File](#https://1drv.ms/x/c/12a740032e486dd3/EQE-qHi9cfVEsadz9OR6XeUBgrGepg7yvRUtg4VtUhwzag?e=VL1CC9) <!-- Replace with actual link -->
 
 ---
 
-*For questions or collaboration, reach out to Gaurab Kundu.*
+*For questions or collaboration, reach out to Himanshu Shukla.*
