@@ -67,7 +67,7 @@ The Road Accident Analytics Dashboard empowers decision-makers with critical ins
 ![Screenshot 2025-01-25 022207](https://github.com/user-attachments/assets/8027b65e-407d-4a62-acaf-e3df02ceec8f)
 
 ## Download
-- [Excel Dashboard File](#https://1drv.ms/x/c/12a740032e486dd3/EQE-qHi9cfVEsadz9OR6XeUBgrGepg7yvRUtg4VtUhwzag?e=VL1CC9) <!-- Replace with actual link -->
+- [Excel Dashboard File](https://1drv.ms/x/c/12a740032e486dd3/EQE-qHi9cfVEsadz9OR6XeUBgrGepg7yvRUtg4VtUhwzag?e=bWBylU) <!-- Replace with actual link -->
 
 ---
 
