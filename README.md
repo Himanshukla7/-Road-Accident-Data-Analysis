@@ -34,7 +34,7 @@ Road safety is a global concern impacting countless communities. This project pr
 
 ## Analysis Approach
 - Created a **Data Analysis** sheet with 9 Pivot Tables to summarize:
-  - Casualty trends by type, vehicle, road, location, month, etc.
+- Casualty trends by type, vehicle, road, location, month, etc.
 - Analyzed monthly trends for 2021 and 2022
 
 ## Dashboard Features
